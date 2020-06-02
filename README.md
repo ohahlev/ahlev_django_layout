@@ -32,6 +32,7 @@ install ahlev_django_layout from the project directory
 
     INSTALLED_APPS = [
       'ahlev_django_layout',  # add this line
+      'ahlev_django_uikit',   # and this line
       ...
     ]
 
