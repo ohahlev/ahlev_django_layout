@@ -1,4 +1,4 @@
-# Layout Application
+# A Layout Application
 ![pypi](https://img.shields.io/pypi/v/ahlev_django_layout) ![pypi](https://img.shields.io/pypi/status/ahlev_django_layout)
 
 ## install from this repository
